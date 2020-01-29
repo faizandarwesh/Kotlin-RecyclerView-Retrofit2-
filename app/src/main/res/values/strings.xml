@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinRecyclerViewAndRetrofit2</string>
+    <string name="my_label">Kotlin</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="check_network">Please check your internet connection and try again</string>
+    <string name="retry">RETRY</string>
+</resources>
